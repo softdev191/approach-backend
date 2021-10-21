@@ -1,0 +1,1 @@
+{"APNS":"{"aps":{"alert":"Someone sent you a nudge!","badge":1,"sound":"default","type":"send-nudge","payload":{"from_user_uuid":"b5a761a4-6ed5-4d4a-8d60-3760361942c1","to_user_uuid":"6c9725f7-d428-49ed-9750-3d02644fc1d9","location":"Test location","lat":"14.1999922","lng":"121.999909","type":"send-nudge","status":"pending","isActive":0}}}"}
